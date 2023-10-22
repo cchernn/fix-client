@@ -1,0 +1,27 @@
+Generating Report for Session <SessionID> - 20231022110744
+Total Order Counts:
+     NewOrder - AAPL_BUY  : 119
+     NewOrder - AAPL_SELL : 102
+     NewOrder - AAPL_SHORT: 105
+     NewOrder - BAC _BUY  : 141
+     NewOrder - BAC _SELL : 110
+     NewOrder - BAC _SHORT: 100
+     NewOrder - MSFT_BUY  : 137
+     NewOrder - MSFT_SELL : 100
+     NewOrder - MSFT_SHORT: 86
+     Total NewOrder    : 1,000
+     Total CancelOrder : 53
+Total Trading Volume:
+     AAPL : $222,904,884.01
+     BAC  : $54,792,688.15
+     MSFT : $367,738,501.28
+     Total: $645,436,073.44
+Profit and Loss (PNL) (diff(Buy/Sell_LastPx - MktPx)):
+     AAPL : $567,271.97
+     BAC  : $123,640.21
+     MSFT : $125,822.18
+     Total: $816,734.36
+Volume Weighted Average Price (VWAP):
+     AAPL : $151.46
+     BAC  : $32.53
+     MSFT : $239.93
